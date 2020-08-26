@@ -1,0 +1,7 @@
+E:\Staj\Client\Client\Client\bin\Debug\Client.exe.config
+E:\Staj\Client\Client\Client\bin\Debug\Client.exe
+E:\Staj\Client\Client\Client\bin\Debug\Client.pdb
+E:\Staj\Client\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Staj\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Staj\Client\Client\Client\obj\Debug\Client.exe
+E:\Staj\Client\Client\Client\obj\Debug\Client.pdb
